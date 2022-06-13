@@ -1,0 +1,1 @@
+This is a classification project since the variable to be predicted in binary (heart disease or not) Objective is here to predict whether a person have heart disease or not on the basis of user inputs.
